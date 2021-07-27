@@ -1,1 +1,1 @@
-# This is my AWS-GWLB repo for testing and craeting temapltesto be used for UWE.  
+# This is my AWS-GWLB repo for testing and craeting temapltes to be used for UWE.  
